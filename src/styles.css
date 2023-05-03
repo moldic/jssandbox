@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+#top {
+  background-color: burlywood;
+}
+
+div {
+  border-color: crimson;
+  outline-color: chocolate;
+  outline: solid;
+  outline-width: 1px;
+}
+
+ul {
+  min-height: 80px;
+}
+
+li {
+  width: 400px;
+  min-height: 40px;
+}
+
+button {
+  margin: 4px;
+}
